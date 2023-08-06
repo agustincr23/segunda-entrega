@@ -189,3 +189,10 @@ section {
 .row {
     width: 100%
 }
+
+/* contacto */
+
+.formulario {
+    width: 500px;
+    height: auto;
+}
