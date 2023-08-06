@@ -1,0 +1,191 @@
+/* HEADER */
+
+.logo {
+    width: 10rem;
+}
+
+.fuentes {
+    font-size: 1.5rem;
+    padding-left: 2rem;
+    text-transform: uppercase;
+}
+
+.menu:hover {
+    background-color: black;
+    color: white;
+}
+
+header {
+    border-bottom: 1px solid black;
+}
+
+/* HERO */
+
+.btn {
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.btn:hover {
+    background-color: rgb(150, 159, 245);
+    color: black
+}
+
+/* .imgFondo {
+    background-image: url(../img/fondo-correo-autos.jpg);
+    background-position: center;
+    background-size: cover;
+} */
+
+
+/* vehiculos */
+
+.tituloVehiculos {
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 1rem;
+}
+
+.tituloVehiculos h2 {
+    font-size: 3rem;
+}
+
+.card {
+    border: 4;
+    width: 400px;
+    height: 600px;
+    margin: 0;
+    padding: 0;
+}
+
+.imgAutos {
+    width: 80%;
+    height: 350px;
+}
+
+.flexCard {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+/* Vende tu auto */
+/* HERO */
+
+.hero {
+    display: flex;
+    background-color: white;
+    max-width: 90rem;
+    flex-direction: row-reverse;
+    position: relative;
+    margin-inline-end: auto;
+    margin-inline-start: auto;
+    display: flex;
+    width: 100%;
+}
+
+
+section {
+    height: 28rem;
+    max-height: 28rem;
+    padding-block-start: 4.5rem;
+    padding-block-end: 4.5rem;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    height: 28rem;
+    max-height: 28rem;
+    padding-block-start: 4.5rem;
+    padding-block-end: 4.5rem;
+}
+
+
+.subtituloA {
+    /* display: flex; */
+    /* align-self: center; */
+    line-height: 120%;
+    font-size: calc(1.325rem + .9vw);
+    color: black text-align: center;
+    margin-block-end: 2rem;
+    font-weight: 500;
+}
+
+.cardB {
+    margin-inline-end: 1rem;
+    flex-direction: column;
+    /* max-width: 17.75rem; */
+    text-align: center;
+    height: 600px;
+}
+
+.imgB {
+    flex-direction: column;
+    width: 100%;
+    height: 25%;
+    text-align: center;
+}
+
+
+
+.dropdown-menu {
+    background-color: black;
+    height: 500px;
+}
+
+/* footer */
+
+
+
+
+
+
+
+
+/* Compra un auto */
+
+.marcas {
+    text-decoration: none black;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: pointer;
+    list-style-type: none;
+
+}
+
+.accordion {
+    width: 25%;
+    height: 500px;
+}
+
+.padreFlex {
+    height: 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    background-color: black;
+    align-items: flex-start;
+
+}
+
+.col-xl-3 {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: flex-start;
+    margin: 0px;
+    padding: 0px;
+}
+
+.row {
+    width: 100%
+}
