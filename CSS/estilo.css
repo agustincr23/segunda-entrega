@@ -196,3 +196,11 @@ section {
     width: 500px;
     height: auto;
 }
+
+/* */
+
+@media (max-width: 1280px) {
+ .imagen-01 { 
+    display: none;
+ }
+}

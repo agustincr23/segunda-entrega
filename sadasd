@@ -1,0 +1,138 @@
+ <div class="row">
+      <div class="col-xl-3 col-md-6 col-sm-12">
+        <div class="card flexCard" >
+            <img class="imgAutos" src="img/fiat-argo-blanco.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h3 class="card-title">Fiat Argo</h3>
+              <p class="card-text">
+                <ul>
+                    <li>Color:</li>
+                    <li>Kilometros:</li>
+                    <li>Modelo:</li>
+                </ul>
+            </p>
+              <a href="#" class="btn colorBtn">Información</a>
+            </div>
+          </div>
+      </div>
+
+      <div class="col-xl-3 col-md-6 col-sm-12">
+        <div class="card flexCard" >
+            <img class="imgAutos" src="img/ford-fiesta-azul.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h3 class="card-title">Card title</h3>
+              <p class="card-text">
+                <ul>
+                    <li>Color:</li>
+                    <li>Kilometros:</li>
+                    <li>Modelo:</li>
+                </ul>
+            </p>
+              <a href="#" class="btn colorBtn">Información</a>
+            </div>
+          </div>
+      </div>
+
+      <div class="col-xl-3 col-md-6 col-sm-12">
+        <div class="card flexCard" >
+            <img class="imgAutos" src="img/ford-focus-blanco.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h3 class="card-title">Card title</h3>
+              <p class="card-text">
+                <ul>
+                    <li>Color:</li>
+                    <li>Kilometros:</li>
+                    <li>Modelo:</li>
+                </ul>
+            </p>
+              <a href="#" class="btn colorBtn">Información</a>
+            </div>
+          </div>
+      </div>
+
+      <div class="col-xl-3 col-md-6 col-sm-12">
+        <div class="card flexCard" >
+            <img class="imgAutos" src="img/ford-ka-gris.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h3 class="card-title">Card title</h3>
+              <p class="card-text">
+                <ul>
+                    <li>Color:</li>
+                    <li>Kilometros:</li>
+                    <li>Modelo:</li>
+                </ul>
+            </p>
+              <a href="#" class="btn colorBtn">Información</a>
+            </div>
+          </div>
+      </div>
+
+      <div class="col-xl-3 col-md-6 col-sm-12">
+        <div class="card flexCard" >
+            <img class="imgAutos" src="img/gol-trend-grisoscuro.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h3 class="card-title">Card title</h3>
+              <p class="card-text">
+                <ul>
+                    <li>Color:</li>
+                    <li>Kilometros:</li>
+                    <li>Modelo:</li>
+                </ul>
+            </p>
+              <a href="#" class="btn colorBtn">Información</a>
+            </div>
+          </div>
+      </div>
+
+      <div class="col-xl-3 col-md-6 col-sm-12">
+        <div class="card flexCard" >
+            <img class="imgAutos" src="img/gol-trend-rojo.jpg" class="card-img-top" alt="...">
+            <div class="card-body"3>
+              <h3 class="card-title">Card title</h3>
+              <p class="card-text">
+                <ul>
+                    <li>Color:</li>
+                    <li>Kilometros:</li>
+                    <li>Modelo:</li>
+                </ul>
+            </p>
+              <a href="#" class="btn colorBtn">Información</a>
+            </div>
+          </div>
+      </div>
+
+      <div class="col-xl-3 col-md-6 col-sm-12">
+        <div class="card flexCard" >
+            <img class="imgAutos" src="img/peugeot-308-blanco.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h3 class="card-title">Card title</h3>
+              <p class="card-text">
+                <ul>
+                    <li>Color:</li>
+                    <li>Kilometros:</li>
+                    <li>Modelo:</li>
+                </ul>
+            </p>
+              <a href="#" class="btn colorBtn">información</a>
+            </div>
+          </div>
+      </div>
+
+      <div class="col-xl-3 col-md-6 col-sm-12">
+        <div class="card flexCard" >
+            <img class="imgAutos" src="img/peugeot-308-negro.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h3 class="card-title">Peugeot 308</h3>
+                <p class="card-text">
+                    <ul>
+                        <li>Color:</li>
+                        <li>Kilometros:</li>
+                        <li>Modelo:</li>
+                    </ul>
+                </p>
+              <a href="#" class="btn colorBtn">Información</a>
+            </div>
+          </div>
+      </div>
+
+    </div>
