@@ -116,7 +116,8 @@ section {
     /* align-self: center; */
     line-height: 120%;
     font-size: calc(1.325rem + .9vw);
-    color: black text-align: center;
+    color: black; 
+    text-align: center;
     margin-block-end: 2rem;
     font-weight: 500;
 }
